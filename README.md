@@ -22,6 +22,8 @@ CAPITULO 10
 
 EJERCICIOS
 
+CAPITULO 9
+
 9-1 Teorema de superposición
 
 1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
@@ -32,7 +34,7 @@ EJERCICIOS
 
 ![image](https://user-images.githubusercontent.com/84587091/123844203-5a08e500-d8d8-11eb-985a-665c01e6f9ff.png)
 
-5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
+5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL= 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
 
 ![image](https://user-images.githubusercontent.com/84587091/123844491-b66c0480-d8d8-11eb-8a10-1e389ed6ec6a.png)
 
@@ -128,4 +130,110 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![image](https://user-images.githubusercontent.com/84587091/123846986-a1dd3b80-d8db-11eb-99ec-8f41551270f7.png)
 
 9-4 Teorema de transferencia de máxima potencia
+
+37. Resolver.
+
+![image](https://user-images.githubusercontent.com/84587091/124163204-f65ff280-da64-11eb-8136-88dd2286c590.png)
+
+a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga.
+
+b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
+
+c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 Ω a 50 kΩ en incrementos de 5 kΩ.
+
+39. Resolver.
+
+![image](https://user-images.githubusercontent.com/84587091/124163598-53f43f00-da65-11eb-87bd-d14b10d4e047.png)
+
+a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
+
+b. Calcule la máxima potencia disipada por RL.
+
+41. Resolver.
+
+![image](https://user-images.githubusercontent.com/84587091/124163909-b64d3f80-da65-11eb-83f0-2f4b33077e0f.png)
+
+a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kΩ reciba la máxima potencia.
+
+b. Calcule la máxima potencia suministrada por RL.
+
+9-5 Teorema de sustitución
+
+43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 Ω, determine la magnitud y polaridad de la fuente de voltaje resultante.
+
+![image](https://user-images.githubusercontent.com/84587091/124164059-f4e2fa00-da65-11eb-8b1d-be6d49fb0327.png)
+
+9-6 Teorema de Millman
+
+45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
+
+![image](https://user-images.githubusercontent.com/84587091/124164320-24920200-da66-11eb-8e33-6e259af5a586.png)
+
+47. Repita el problema 45 para el circuito de la figura 9-105.
+
+![image](https://user-images.githubusercontent.com/84587091/124164560-6a4eca80-da66-11eb-9e2b-93bbc88cb50e.png)
+
+9-7 Teorema de reciprocidad
+
+49. Resolver.
+
+![image](https://user-images.githubusercontent.com/84587091/124164673-8d797a00-da66-11eb-97a1-374171e84883.png)
+
+a. Determine la corriente I en el circuito de la figura 9-107.
+
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+51. Resolver.
+
+![image](https://user-images.githubusercontent.com/84587091/124164794-b7cb3780-da66-11eb-9f7b-759a82192d12.png)
+
+a. Determine el voltaje V en el circuito de la figura 9-109.
+
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+9-8 Análisis de circuitos por computadora
+
+53. Use Multisim para encontrar los circuitos equivalentes de Thévenin y Norton externos al resistor de carga en el circuito de la figura 9-81.
+
+![image](https://user-images.githubusercontent.com/84587091/124165083-0ed10c80-da67-11eb-8b95-93bb55a1ab09.png)
+
+55. Use el editor de esquema del PSpice para introducir el circuito de la figura 9-83 y utilice el postprocesador Probe para desplegar el voltaje, la corriente y la potencia de salida como una función de la resistencia de carga. Use el cursor en el postprocesador Probe para determinar el valor de la resistencia de carga para la cual la carga recibirá la máxima potencia. Establezca que la resistencia de carga varíe desde 100 Ω hasta 4 000 Ω en incrementos de 100 Ω.
+
+![image](https://user-images.githubusercontent.com/84587091/124165158-1abcce80-da67-11eb-9958-e7d64083d49c.png)
+
+CAPITULO 10
+
+10-1 Capacitancia
+
+1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
+
+![image](https://user-images.githubusercontent.com/84587091/124165499-7ab37500-da67-11eb-92b9-4e5ed28a75b7.png)
+
+a. E = 40 V, C = 20 μF
+
+b. V = 500 V, Q = 1 000 μC 
+
+c. V = 200 V, C = 500 nF 
+
+d. Q = 3 × 10^-4 C, C = 10 × 10^-6 F
+
+e. Q = 6 mC, C = 40 μF
+
+f. V = 1 200 V, Q = 1.8 mC
+
+3. La carga en un capacitor de 50 μF es de 10 × 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+5. Se carga un capacitor 5 μF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+
+10-2 Factores que afectan la capacitancia
+
+
+
+
+
+
+
+
+
+
 
