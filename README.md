@@ -1,4 +1,6 @@
-# Informe-Tarea-5
+![image](https://user-images.githubusercontent.com/84587120/126252082-869e9087-e74b-4cb0-99d8-cc9f75ec6e4c.png)
+
+#Informe-Tarea-5
 
 INFORME DE TAREA
 
