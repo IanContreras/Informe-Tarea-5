@@ -232,6 +232,26 @@ f. V = 1 200 V, Q = 1.8 mC
 
 
 
+VIDEO:
+
+
+CONCLUSIONES
+Despues de haber analizado la teoria y practica de los temas ya mencionados pudimos llegar a la conclusion de :
+
+-Estos teoremass basicos nos permitieron analizar las redes resistivas mas complejas de un circuito ,ademas los teoremas mas utiles de redes son  el de superposicion, el de Thevenin, el de Norton y el de maxima transferencia de potencia.  
+
+-Ademas un capacitor es un componente de circuito diseñado para almacenar carga eléctrica,Se les utiliza en sistemas de radio y televisión, por ejemplo, para sintonizar señales ,asi mismo ,La capacitancia es la propiedad eléctrica de los capacitores: es una medida de cuánta carga puede mantener un capacitor.
+
+RECOMENDACIONES
+
+-Debemos examinar mas a fondo los teoremas que no se les toma mucha importancia , ya que cada uno es fundamental en calculos de voltajes para un circuito y tener en cuenta que por lo menos debemos aprender lo basico sobre estos temas.
+-Realizar mas practicas con respecto a capacitores y capacitancia.
+
+BIBLIOGRAFÍA:
+
+*Análisis de Circuitos: Teoría y Práctica ( Allan H. Robbins, Wilhelm C. Miller) Capítulo 3y4
+
+
 
 
 
