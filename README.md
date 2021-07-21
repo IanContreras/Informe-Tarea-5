@@ -310,6 +310,7 @@ Despues de haber analizado la teoria y practica de los temas ya mencionados pudi
 RECOMENDACIONES
 
 -Debemos examinar mas a fondo los teoremas que no se les toma mucha importancia , ya que cada uno es fundamental en calculos de voltajes para un circuito y tener en cuenta que por lo menos debemos aprender lo basico sobre estos temas.
+
 -Realizar mas practicas con respecto a capacitores y capacitancia.
 
 BIBLIOGRAFÍA:
