@@ -8,7 +8,7 @@ OBJETIVOS:
 
 OBJETIVO GENERAL:
 
--Aprender, conceptos fundamentales sobre el análisis de circuitos eléctricos,y ponerlos en práctica a partir de la realización de problemas y ejercicios planteados de acuerdo al libro (Analisis de Circuitos: Teoria y Practica de Allan H. Robbins, Wilhelm C. Miller).
+-Aprender, conceptos fundamentales sobre Teorema de  redes  y Capacitancia e inductancia en un circuito electrico , poner en practica estos conceptos   a partir de la realización de problemas y ejercicios planteados de acuerdo al libro (Analisis de Circuitos: Teoria y Practica de Allan H. Robbins, Wilhelm C. Miller).
 
 OBJETIVOS ESPECÍFICOS :
 
