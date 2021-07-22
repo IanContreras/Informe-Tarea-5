@@ -196,29 +196,49 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![image](https://user-images.githubusercontent.com/84587091/123846938-9427b600-d8db-11eb-8a03-5a59ddbbc556.png)
 
+![image](https://user-images.githubusercontent.com/84587120/126581524-5c39553b-cb6f-4cfd-a97d-e136e05e5b64.png)
+
+
+
 35. Repita el problema 31 para el circuito de la figura 9-95.
 
 ![image](https://user-images.githubusercontent.com/84587091/123846986-a1dd3b80-d8db-11eb-99ec-8f41551270f7.png)
+
 
 9-4 Teorema de transferencia de máxima potencia
 
 37. Resolver.
 
+
 ![image](https://user-images.githubusercontent.com/84587091/124163204-f65ff280-da64-11eb-8136-88dd2286c590.png)
+
 
 a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga.
 
+![image](https://user-images.githubusercontent.com/84587120/126581742-56d663bd-5ec7-497d-9d7b-65bc0833a02a.png)
+
 b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
 
+![image](https://user-images.githubusercontent.com/84587120/126581857-1b320b63-5d23-4860-a61f-a9cdbd11e5a4.png)
+
+
 c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 Ω a 50 kΩ en incrementos de 5 kΩ.
+
+![image](https://user-images.githubusercontent.com/84587120/126581931-41a4e28b-de01-466a-886c-6f8c5f920e59.png)
+
 
 39. Resolver.
 
 ![image](https://user-images.githubusercontent.com/84587091/124163598-53f43f00-da65-11eb-87bd-d14b10d4e047.png)
 
+
 a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
 
+![image](https://user-images.githubusercontent.com/84587120/126581959-2175e724-ce1d-4332-b867-22a08658b24c.png)
+
 b. Calcule la máxima potencia disipada por RL.
+
+![image](https://user-images.githubusercontent.com/84587120/126581991-961ffb6e-12a7-4d6f-ba4e-a105042081ba.png)
 
 41. Resolver.
 
@@ -226,7 +246,11 @@ b. Calcule la máxima potencia disipada por RL.
 
 a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kΩ reciba la máxima potencia.
 
+![image](https://user-images.githubusercontent.com/84587120/126582000-a2f77563-017e-4d49-9f01-3f84ce0aa724.png)
+
 b. Calcule la máxima potencia suministrada por RL.
+
+![image](https://user-images.githubusercontent.com/84587120/126582013-d0a75358-9c45-40e9-9c38-8aa483fc834a.png)
 
 9-5 Teorema de sustitución
 
@@ -234,15 +258,21 @@ b. Calcule la máxima potencia suministrada por RL.
 
 ![image](https://user-images.githubusercontent.com/84587091/124164059-f4e2fa00-da65-11eb-8b1d-be6d49fb0327.png)
 
+![image](https://user-images.githubusercontent.com/84587120/126582044-f9b09f9d-1435-4867-97f6-2dc5b21ba142.png)
+
 9-6 Teorema de Millman
 
 45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
 
 ![image](https://user-images.githubusercontent.com/84587091/124164320-24920200-da66-11eb-8e33-6e259af5a586.png)
 
+![image](https://user-images.githubusercontent.com/84587120/126582063-84d62807-a756-4829-a465-393f99fc45a9.png)
+
 47. Repita el problema 45 para el circuito de la figura 9-105.
 
 ![image](https://user-images.githubusercontent.com/84587091/124164560-6a4eca80-da66-11eb-9e2b-93bbc88cb50e.png)
+
+![image](https://user-images.githubusercontent.com/84587120/126582079-dab1e8a0-65d4-4e3c-931d-ef3c733f19de.png)
 
 9-7 Teorema de reciprocidad
 
@@ -252,7 +282,11 @@ b. Calcule la máxima potencia suministrada por RL.
 
 a. Determine la corriente I en el circuito de la figura 9-107.
 
+![image](https://user-images.githubusercontent.com/84587120/126582097-c7e8d5d6-449a-4121-a3f2-26950bf27d8f.png)
+
 b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84587120/126582122-0a0ecaf6-a5ac-4a28-8a8c-d6bad56d1496.png)
 
 51. Resolver.
 
@@ -260,13 +294,18 @@ b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 a. Determine el voltaje V en el circuito de la figura 9-109.
 
+![image](https://user-images.githubusercontent.com/84587120/126582166-ffb84c92-ebda-42cd-a4af-a0453aac0a1b.png)
+
 b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84587120/126582179-6baefb7f-e31f-432e-b3c4-e4929236de4e.png)
 
 9-8 Análisis de circuitos por computadora
 
 53. Use Multisim para encontrar los circuitos equivalentes de Thévenin y Norton externos al resistor de carga en el circuito de la figura 9-81.
 
 ![image](https://user-images.githubusercontent.com/84587091/124165083-0ed10c80-da67-11eb-8b95-93bb55a1ab09.png)
+
 
 55. Use el editor de esquema del PSpice para introducir el circuito de la figura 9-83 y utilice el postprocesador Probe para desplegar el voltaje, la corriente y la potencia de salida como una función de la resistencia de carga. Use el cursor en el postprocesador Probe para determinar el valor de la resistencia de carga para la cual la carga recibirá la máxima potencia. Establezca que la resistencia de carga varíe desde 100 Ω hasta 4 000 Ω en incrementos de 100 Ω.
 
@@ -322,20 +361,20 @@ f. V = 1 200 V, Q = 1.8 mC
 
 10-7 Capacitores en paralelo y en serie
 
-23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 uF conectados en paralelo?
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 F conectados en paralelo?
 
 25. Repita el problema 23 si los capacitores están conectados en serie.
 
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
-29. Un capacitor de 30 uF se conecta en paralelo con un capacitor de 60 uF, y otro de 10 uF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
 
 31. Para la figura 10-36, determine C3 y C4.
 
-33. Se tienen capacitores de 22, 47, 2.2 y 10 uF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+33. Se tienen capacitores de 22, 47, 2.2 y 10 F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
 
 
-35. Considere capacitores de 1, 1.5 y 10 uF. Si CT = 10-6 uF, ¿cómo están conectados los capacitores?
+35. Considere capacitores de 1, 1.5 y 10 F. Si CT  10-6 F, ¿cómo están conectados los capacitores?
 
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
 
@@ -346,13 +385,13 @@ f. V = 1 200 V, Q = 1.8 mC
 
 10-8 Corriente y voltaje en el capacitor.
 
-43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos
+43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos
 
-45. Si el voltaje en un capacitor de 4.7 uF es vC = 100e^0.05t V, ¿qué valor tiene iC?
+45. Si el voltaje en un capacitor de 4.7 F es vC  100e0.05t V, ¿qué valor tiene iC?
 
 10-9 Energía almacenada por un capacitor
 
-47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms.
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t  0, 1, 4, 5, 7 y 9 ms.
 
 10-10 Fallas en el capacitor y solución de problemas 
 
