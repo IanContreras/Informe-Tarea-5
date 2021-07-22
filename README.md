@@ -317,42 +317,41 @@ CAPITULO 10
 
 1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
 
-![image](https://user-images.githubusercontent.com/84587091/124165499-7ab37500-da67-11eb-92b9-4e5ed28a75b7.png)
+![image](https://user-images.githubusercontent.com/84427371/126588029-fda02b6d-0d92-4e8f-85e3-e482d19c6970.png)
 
 a. E = 40 V, C = 20 μF
 
-![image](https://user-images.githubusercontent.com/84587120/126582998-ee4f0f68-f62e-4b8e-8d28-1096b9531d7f.png)
+![image](https://user-images.githubusercontent.com/84427371/126588044-cb23113d-c265-4c68-b0ba-3276558cfa15.png)
 
 b. V = 500 V, Q = 1 000 μC 
 
-![image](https://user-images.githubusercontent.com/84587120/126583012-e9aa2cda-fd89-46fe-b0de-d8af7d271f26.png)
+![image](https://user-images.githubusercontent.com/84427371/126588057-08c8de2e-5bf5-481e-b68e-dcf118376eb2.png)
 
 
 c. V = 200 V, C = 500 nF 
 
-![image](https://user-images.githubusercontent.com/84587120/126583023-956c7c3b-de89-48c6-a9ed-0ffda62070e2.png)
+![image](https://user-images.githubusercontent.com/84427371/126588068-46f79923-51a1-4452-b53f-81b909c69bb4.png)
 
 d. Q = 3 × 10^-4 C, C = 10 × 10^-6 F
 
-![image](https://user-images.githubusercontent.com/84587120/126583037-e03efbfa-4002-4dbf-a922-aa93ae4ab354.png)
+![image](https://user-images.githubusercontent.com/84427371/126588084-256347f4-b348-4963-8533-6516e492f249.png)
 
 e. Q = 6 mC, C = 40 μF
 
-![image](https://user-images.githubusercontent.com/84587120/126583055-a68a25ed-0a94-4436-8d13-c6415294fedb.png)
+![image](https://user-images.githubusercontent.com/84427371/126588096-486cd239-2ddc-448b-8269-5ba6a56c782d.png)
 
 f. V = 1 200 V, Q = 1.8 mC
 
-![image](https://user-images.githubusercontent.com/84587120/126583071-aa574df0-db75-46fe-a55e-93d17879e201.png)
+![image](https://user-images.githubusercontent.com/84427371/126588109-f236a0ac-1e05-4cbd-8dbd-465b1dd0cf19.png)
 
 3. La carga en un capacitor de 50 μF es de 10 × 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
 
-![image](https://user-images.githubusercontent.com/84587120/126583090-cbf3b2d0-44a4-4c28-a0c8-67357b67b6d1.png)
+![image](https://user-images.githubusercontent.com/84427371/126588128-04896d06-3b4f-44ca-8c3f-f8fd128283a6.png)
 
-![image](https://user-images.githubusercontent.com/84587120/126583102-84f20f6a-5f15-44ed-8055-c47e26effa74.png)
 
 5. Se carga un capacitor 5 μF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
 
-![image](https://user-images.githubusercontent.com/84587120/126583123-c6a0def6-3a00-4392-b833-63a72ac45156.png)
+![image](https://user-images.githubusercontent.com/84427371/126588169-9fe10c57-ba9d-47d8-8a83-0de11341380a.png)
 
 ![image](https://user-images.githubusercontent.com/84587120/126583133-83649b13-48b1-4f72-a72d-55bf7465114c.png)
 
@@ -378,21 +377,18 @@ f. V = 1 200 V, Q = 1.8 mC
 10-3 Campos eléctricos
 
 13. Resolver: 
-
-a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
-
-![image](https://user-images.githubusercontent.com/84587120/126583426-490fe9bb-f8b5-4b44-8fe6-57e3a65c2dfd.png)
+¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
 
 b. Cual es E al doble de la distancia? 
 
-![image](https://user-images.githubusercontent.com/84587120/126583449-deb1f0bb-9309-4c1f-9fc3-313b9e4d0d94.png)
+![image](https://user-images.githubusercontent.com/84427371/126587212-24a26994-ace9-4887-9adc-f0e4fdc3e564.png)
 
 
 10-4 Dieléctricos
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
-![image](https://user-images.githubusercontent.com/84587120/126583506-6a82e9f1-9df1-4a92-a87b-f78f27776232.png)
+![image](https://user-images.githubusercontent.com/84427371/126587268-d9a10cd5-6003-4c22-921c-502d0e0613ce.png)
 
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 
@@ -424,20 +420,51 @@ c.Puntos
 
 23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 F conectados en paralelo?
 
+![image](https://user-images.githubusercontent.com/84427371/126587338-2886c8b2-394a-4bc5-9003-e6acc955a43a.png)
+
 25. Repita el problema 23 si los capacitores están conectados en serie.
+
+![image](https://user-images.githubusercontent.com/84427371/126587368-f2f49a6d-34de-4f99-a16a-c353ac3ef68d.png)
 
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
+![image](https://user-images.githubusercontent.com/84427371/126587395-f7ab8490-b077-464a-983c-006af63881ff.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126587433-76af5122-2090-445b-8eaa-f0543c94d1bc.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126587479-ff0a9982-c850-4b81-9040-ef0bc045ea80.png)
+
+
 29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+
+![image](https://user-images.githubusercontent.com/84427371/126587526-6c64d575-1db0-4a8c-a246-58ef28bfea1b.png)
 
 31. Para la figura 10-36, determine C3 y C4.
 
+![image](https://user-images.githubusercontent.com/84427371/126587577-632afe97-c97f-4aac-9ae9-9b7c21a5cc16.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126587592-25769de9-e242-4f46-8632-d0306367f79f.png)
+
 33. Se tienen capacitores de 22, 47, 2.2 y 10 F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+![image](https://user-images.githubusercontent.com/84427371/126587608-49400c2c-30f7-456b-8e6d-b8b6057bc17e.png)
 
 
 35. Considere capacitores de 1, 1.5 y 10 F. Si CT  10-6 F, ¿cómo están conectados los capacitores?
 
-37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
+![image](https://user-images.githubusercontent.com/84427371/126587646-84c686d0-179f-4f3c-b879-763d28faa7d3.png)
+
+El capacitor esta en paralelo con la combinacion en serie de capacitadores 
+
+37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-
+
+ ![image](https://user-images.githubusercontent.com/84427371/126587848-87233866-e467-4d3a-b3a5-171fefe70c49.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126587866-2a142e24-4b5a-4090-bfbc-8acbc869d96e.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126587927-1d7eea9e-bc9d-4ec1-a75e-2c32780ba2ea.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126587932-a8395439-df56-4ec9-9e82-a284f7bf5546.png)
 
  
 39. Repita el problema 38 para el circuito de la figura 10-39.
