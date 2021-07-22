@@ -298,8 +298,31 @@ f. V = 1 200 V, Q = 1.8 mC
 
 10-2 Factores que afectan la capacitancia
 
+7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
 
+9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿cuál es el área de las placas?
 
+11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 uF. Un segundo capacitor con dimensiones físicas idénticas pero con un dieléctrico de mylar lleva una carga de 55 x 10^4 C. ¿Cuál es su voltaje?
+
+10-3 Campos eléctricos
+
+13. a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+
+10-4 Dieléctricos
+
+15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+10-5 Efectos no ideales
+
+21. Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+
+10-7 Capacitores en paralelo y en serie
+
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 F conectados en paralelo?
 
 VIDEO:
 
