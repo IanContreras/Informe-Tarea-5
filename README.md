@@ -396,13 +396,29 @@ b. Cual es E al doble de la distancia?
 
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 
-![image](https://user-images.githubusercontent.com/84587120/126583524-c2bc7207-6296-4033-b28a-d8bed33f877f.png)
+![image](https://user-images.githubusercontent.com/84427371/126585033-3a3e33ee-4532-4d6c-a15c-c6aff9ac98ca.png)
 
 19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![image](https://user-images.githubusercontent.com/84427371/126585080-087b4cf9-e4ce-46e9-90e5-c29c75791251.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126585094-c01c411c-18ff-4739-892a-9688cb5f5dfb.png)
+
+a.Puntos
+
+![image](https://user-images.githubusercontent.com/84427371/126585114-50275dec-4e6d-4512-a6c6-bfb11318042b.png)
+
+b.Esferas  
+
+![image](https://user-images.githubusercontent.com/84427371/126585134-8084c3ea-9e0e-4d75-9bd3-a0e53c820c3e.png)
+
+c.Puntos
 
 10-5 Efectos no ideales
 
 21. Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+
+![image](https://user-images.githubusercontent.com/84427371/126585178-d4da8c5f-0679-4692-b2be-22531780df2e.png)
 
 10-7 Capacitores en paralelo y en serie
 
@@ -426,22 +442,76 @@ b. Cual es E al doble de la distancia?
  
 39. Repita el problema 38 para el circuito de la figura 10-39.
 
+![image](https://user-images.githubusercontent.com/84427371/126585473-c902a370-756c-4ec8-b43c-3edbcb97764d.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126585487-5610a2ec-8361-4c3c-8878-84e6181701e3.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126585528-f7ea5865-7d8c-43f3-a4f2-76571fabfc26.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126585545-99585654-ff9e-4953-bef2-3742bdde4d8d.png)
+
 41. Para la figura 10-41, determine Cx.
+
+![image](https://user-images.githubusercontent.com/84427371/126586074-cb4e9a33-6a23-47d0-a840-178456927fd5.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586098-c7708ece-a8e2-4776-b300-4bc8f72b172f.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586143-1fc65721-a554-418c-8120-a6e3e6ae2a05.png)
 
 10-8 Corriente y voltaje en el capacitor.
 
 43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos
 
+![image](https://user-images.githubusercontent.com/84427371/126586158-76e8e341-cf69-448c-aaeb-5d726d89df9c.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586212-b7bb7cb9-dd5d-4175-a2c3-cf7ad040e898.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586235-9dfd85ea-59e8-4ca2-9fac-c71718e0b10c.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586256-a16422be-d543-45c6-af4f-cbe0b5c879c1.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586283-1370fc6e-99dc-45fd-a6cc-3f1078700d6b.png)
+
+b. Dibuje la corriente iC
+
+![image](https://user-images.githubusercontent.com/84427371/126586381-b28ecfb2-f186-43bb-922c-14bb538cd356.png)
+
+
 45. Si el voltaje en un capacitor de 4.7 F es vC  100e0.05t V, ¿qué valor tiene iC?
+
+![image](https://user-images.githubusercontent.com/84427371/126586417-d4800baa-03be-4966-939f-e487aa2f127c.png)
 
 10-9 Energía almacenada por un capacitor
 
 47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t  0, 1, 4, 5, 7 y 9 ms.
 
+![image](https://user-images.githubusercontent.com/84427371/126586429-12970167-548e-450c-9366-7c8b3449ac16.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586462-c96844de-bc6a-4287-beb1-11025569fa31.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586498-2bd009a1-0d59-40c9-a8f5-3e3b17a4767f.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586515-f744b0a2-2015-4da4-95b5-de2400a654b9.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586530-ad29f871-8fb7-4dee-8073-6d16324f9d47.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586554-a68d371a-2e76-49cc-aeed-ab3d8cf8f83e.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586681-472cbcae-562a-454d-8ced-c3a42d198792.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586696-a4c39e3e-72ae-4dd9-9180-d7ac441eb600.png)
+
 10-10 Fallas en el capacitor y solución de problemas 
 
 49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
 
+![image](https://user-images.githubusercontent.com/84427371/126586713-25685cf3-107f-4627-9d8e-8e52ecaaa324.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586746-d3443b54-e973-4ecd-99ea-e5609930fa2c.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586769-01146d78-1175-487a-9993-f7bedd5d0ac9.png)
+
+![image](https://user-images.githubusercontent.com/84427371/126586777-26f7167c-9a0f-4db8-99a3-ff8287d437b7.png)
 
 VIDEO:
 
