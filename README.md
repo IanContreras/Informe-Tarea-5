@@ -322,23 +322,42 @@ f. V = 1 200 V, Q = 1.8 mC
 
 10-7 Capacitores en paralelo y en serie
 
-23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 uF conectados en paralelo?
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 F conectados en paralelo?
 
 25. Repita el problema 23 si los capacitores están conectados en serie.
 
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
-![image](https://user-images.githubusercontent.com/84587091/126578216-a9ec4a67-d18a-4af7-83fd-8c979454c406.png)
-
-29. Un capacitor de 30 uF se conecta en paralelo con un capacitor de 60 F, y otro de 10 uF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
 
 31. Para la figura 10-36, determine C3 y C4.
 
-![image](https://user-images.githubusercontent.com/84587091/126578283-20dbb88e-4a61-4f22-9401-bc2b516ca7e4.png)
+33. Se tienen capacitores de 22, 47, 2.2 y 10 F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
 
-33. Se tienen capacitores de 22, 47, 2.2 y 10 uF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
 
-35. Considere capacitores de 1, 1.5 y 10 uF. Si CT = 10-6 uF, ¿cómo están conectados los capacitores?
+35. Considere capacitores de 1, 1.5 y 10 F. Si CT  10-6 F, ¿cómo están conectados los capacitores?
+
+37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
+
+ 
+39. Repita el problema 38 para el circuito de la figura 10-39.
+
+41. Para la figura 10-41, determine Cx.
+
+10-8 Corriente y voltaje en el capacitor.
+
+43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos
+
+45. Si el voltaje en un capacitor de 4.7 F es vC  100e0.05t V, ¿qué valor tiene iC?
+
+10-9 Energía almacenada por un capacitor
+
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t  0, 1, 4, 5, 7 y 9 ms.
+
+10-10 Fallas en el capacitor y solución de problemas 
+
+49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
+
 
 VIDEO:
 
