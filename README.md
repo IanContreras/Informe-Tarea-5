@@ -534,7 +534,7 @@ b. Dibuje la corriente iC
 
 VIDEO:
 
-https://youtu.be/6-1S_z1NM2k
+https://youtu.be/QRSKEua90JY
 
 CONCLUSIONES
 Despues de haber analizado la teoria y practica de los temas ya mencionados pudimos llegar a la conclusion de :
