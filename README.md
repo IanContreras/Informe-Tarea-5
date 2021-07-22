@@ -302,14 +302,6 @@ b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 9-8 Análisis de circuitos por computadora
 
-53. Use Multisim para encontrar los circuitos equivalentes de Thévenin y Norton externos al resistor de carga en el circuito de la figura 9-81.
-
-![image](https://user-images.githubusercontent.com/84587091/124165083-0ed10c80-da67-11eb-8b95-93bb55a1ab09.png)
-
-
-55. Use el editor de esquema del PSpice para introducir el circuito de la figura 9-83 y utilice el postprocesador Probe para desplegar el voltaje, la corriente y la potencia de salida como una función de la resistencia de carga. Use el cursor en el postprocesador Probe para determinar el valor de la resistencia de carga para la cual la carga recibirá la máxima potencia. Establezca que la resistencia de carga varíe desde 100 Ω hasta 4 000 Ω en incrementos de 100 Ω.
-
-![image](https://user-images.githubusercontent.com/84587091/124165158-1abcce80-da67-11eb-9958-e7d64083d49c.png)
 
 CAPITULO 10
 
@@ -542,6 +534,7 @@ b. Dibuje la corriente iC
 
 VIDEO:
 
+https://youtu.be/6-1S_z1NM2k
 
 CONCLUSIONES
 Despues de haber analizado la teoria y practica de los temas ya mencionados pudimos llegar a la conclusion de :
