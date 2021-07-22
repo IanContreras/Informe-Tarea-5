@@ -24,6 +24,8 @@ CAPITULO 9
 
 CAPITULO 10
 
+![image](https://user-images.githubusercontent.com/84587091/126577577-463f66eb-e3f4-46ca-b2d3-a68a334a0304.png)
+
 EJERCICIOS
 
 CAPITULO 9
