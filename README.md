@@ -20,6 +20,8 @@ MARCO TEÓRICO (RESUMEN)
 
 CAPITULO 9
 
+![image](https://user-images.githubusercontent.com/84587091/126574692-c694bccd-4b9c-47dc-91c9-ed02f08e9c99.png)
+
 CAPITULO 10
 
 EJERCICIOS
