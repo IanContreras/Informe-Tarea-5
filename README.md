@@ -322,7 +322,23 @@ f. V = 1 200 V, Q = 1.8 mC
 
 10-7 Capacitores en paralelo y en serie
 
-23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 F conectados en paralelo?
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 uF conectados en paralelo?
+
+25. Repita el problema 23 si los capacitores están conectados en serie.
+
+27. Determine CT para cada uno de los circuitos de la figura 10-33.
+
+![image](https://user-images.githubusercontent.com/84587091/126578216-a9ec4a67-d18a-4af7-83fd-8c979454c406.png)
+
+29. Un capacitor de 30 uF se conecta en paralelo con un capacitor de 60 F, y otro de 10 uF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+
+31. Para la figura 10-36, determine C3 y C4.
+
+![image](https://user-images.githubusercontent.com/84587091/126578283-20dbb88e-4a61-4f22-9401-bc2b516ca7e4.png)
+
+33. Se tienen capacitores de 22, 47, 2.2 y 10 uF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+35. Considere capacitores de 1, 1.5 y 10 uF. Si CT = 10-6 uF, ¿cómo están conectados los capacitores?
 
 VIDEO:
 
