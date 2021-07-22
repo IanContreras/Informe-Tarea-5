@@ -321,37 +321,82 @@ CAPITULO 10
 
 a. E = 40 V, C = 20 μF
 
+![image](https://user-images.githubusercontent.com/84587120/126582998-ee4f0f68-f62e-4b8e-8d28-1096b9531d7f.png)
+
 b. V = 500 V, Q = 1 000 μC 
+
+![image](https://user-images.githubusercontent.com/84587120/126583012-e9aa2cda-fd89-46fe-b0de-d8af7d271f26.png)
+
 
 c. V = 200 V, C = 500 nF 
 
+![image](https://user-images.githubusercontent.com/84587120/126583023-956c7c3b-de89-48c6-a9ed-0ffda62070e2.png)
+
 d. Q = 3 × 10^-4 C, C = 10 × 10^-6 F
+
+![image](https://user-images.githubusercontent.com/84587120/126583037-e03efbfa-4002-4dbf-a922-aa93ae4ab354.png)
 
 e. Q = 6 mC, C = 40 μF
 
+![image](https://user-images.githubusercontent.com/84587120/126583055-a68a25ed-0a94-4436-8d13-c6415294fedb.png)
+
 f. V = 1 200 V, Q = 1.8 mC
+
+![image](https://user-images.githubusercontent.com/84587120/126583071-aa574df0-db75-46fe-a55e-93d17879e201.png)
 
 3. La carga en un capacitor de 50 μF es de 10 × 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
 
+![image](https://user-images.githubusercontent.com/84587120/126583090-cbf3b2d0-44a4-4c28-a0c8-67357b67b6d1.png)
+
+![image](https://user-images.githubusercontent.com/84587120/126583102-84f20f6a-5f15-44ed-8055-c47e26effa74.png)
+
 5. Se carga un capacitor 5 μF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+
+![image](https://user-images.githubusercontent.com/84587120/126583123-c6a0def6-3a00-4392-b833-63a72ac45156.png)
+
+![image](https://user-images.githubusercontent.com/84587120/126583133-83649b13-48b1-4f72-a72d-55bf7465114c.png)
 
 10-2 Factores que afectan la capacitancia
 
 7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
 
+![image](https://user-images.githubusercontent.com/84587120/126583342-1d03d38a-3214-45c4-8d3f-098a44d706cf.png)
+
+![image](https://user-images.githubusercontent.com/84587120/126583350-6d94e991-1ec8-4dfb-ae78-05fa20daa611.png)
+
 9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿cuál es el área de las placas?
+
+![image](https://user-images.githubusercontent.com/84587120/126583365-07ae1f90-e7c0-4468-b401-41c107ec79bb.png)
+
 
 11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 uF. Un segundo capacitor con dimensiones físicas idénticas pero con un dieléctrico de mylar lleva una carga de 55 x 10^4 C. ¿Cuál es su voltaje?
 
+![image](https://user-images.githubusercontent.com/84587120/126583382-b3c7444e-d9b0-45d5-a27e-cbbad90369f2.png)
+
+![image](https://user-images.githubusercontent.com/84587120/126583397-0f61075e-1fa1-42b4-9b3b-ab49b46f27e4.png)
+
 10-3 Campos eléctricos
 
-13. a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+13. Resolver: 
+
+a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+
+![image](https://user-images.githubusercontent.com/84587120/126583426-490fe9bb-f8b5-4b44-8fe6-57e3a65c2dfd.png)
+
+b. Cual es E al doble de la distancia? 
+
+![image](https://user-images.githubusercontent.com/84587120/126583449-deb1f0bb-9309-4c1f-9fc3-313b9e4d0d94.png)
+
 
 10-4 Dieléctricos
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
+![image](https://user-images.githubusercontent.com/84587120/126583506-6a82e9f1-9df1-4a92-a87b-f78f27776232.png)
+
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+![image](https://user-images.githubusercontent.com/84587120/126583524-c2bc7207-6296-4033-b28a-d8bed33f877f.png)
 
 19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 
